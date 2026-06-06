@@ -49,8 +49,8 @@ online_store_analysis/
 ### Cloning the Repository
 
 
-git clone https://github.com/ShashankByalla/online_store_analysis.git
-cd online_store_analysis
+git clone https://github.com/ShashankByalla/ecommerce-revenue-analytics.git
+cd ecommerce-revenue-analytics
 
 Installing Dependencies
 
