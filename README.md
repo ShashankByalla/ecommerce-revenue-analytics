@@ -1,4 +1,8 @@
-# online_store_analysis
+# 📊 E-Commerce Revenue Analytics
+
+![Python CI](https://github.com/ShashankByalla/ecommerce-revenue-analytics/actions/workflows/python-ci.yml/badge.svg)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED)
+![Tests](https://img.shields.io/badge/Tests-pytest-green)
 
 This project is designed to analyze customer orders from an online store. It provides functions to compute revenue by month, by product, and by customer, as well as identify the top customers based on revenue.
 
